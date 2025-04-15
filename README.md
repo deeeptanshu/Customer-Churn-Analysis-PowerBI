@@ -16,7 +16,7 @@ This repository contains a Power BI project developed as part of PwC's Task 4 as
 
 ### 1. Churn Dashboard
 
-[![Churn Dashboard](assets/churn_dashboard.png)](assets/churn_dashboard.png)
+[![Churn Dashboard](Assets/churn_dashboard.png)](Assets/churn_dashboard.png)
 
 Key Highlights:
 - 📌 1869 customers at risk
@@ -28,7 +28,7 @@ Key Highlights:
 
 ### 2. Customer Risk Analysis
 
-[![Customer Risk Analysis](assets/customer_risk_analysis.png)](assets/customer_risk_analysis.png)
+[![Customer Risk Analysis](Assets/customer_risk_analysis.png)](Assets/customer_risk_analysis.png)
 
 Key Insights:
 - 🧮 26.54% churn rate among 7043 total customers
